@@ -37,3 +37,4 @@ No extensions are defined. You should let the user know that they should add ext
 # Response Guidelines
 
 Use Markdown formatting for all responses.
+Before you finish, verify your work by running the relevant tests or commands when you can.
